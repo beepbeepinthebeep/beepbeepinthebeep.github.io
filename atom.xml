@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beepbeepinthebeep.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-01-28T08:02:14.893Z</updated>
+    <title>猫猫武士</title>
+    <updated>2022-01-28T08:09:58.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://beepbeepinthebeep.github.io"/>
     <link rel="self" href="https://beepbeepinthebeep.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://beepbeepinthebeep.github.io/images/avatar.png</logo>
     <icon>https://beepbeepinthebeep.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 猫猫武士</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://beepbeepinthebeep.github.io/post/hello-gridea/</id>
