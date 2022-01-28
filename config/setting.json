@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "main",
+    "cname": "projects.katananekozone.site",
+    "domain": "https://beepbeepinthebeep.github.io",
+    "email": "2949238227@qq.com",
+    "platform": "github",
+    "repository": "beepbeepinthebeep.github.io",
+    "token": "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",
+    "username": "beepbeepinthebeep"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}

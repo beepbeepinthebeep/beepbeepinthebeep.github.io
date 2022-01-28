@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "content": "​\r\n不再手写指令！\r\n仅适用于：\r\n展示：\r\n\r\n\r\n使用方法：\r\n修改pins.h中的参数，按你连的线填，然后运行代码。在Multisim中双击打开字发生器，点击设置->加载->选择dp文件。\r\n\r\n代码链接：\r\ngenerateCmds.zip\r\n\r\n​",
+      "data": {
+        "title": "课设计组实验四dp文件自动生成",
+        "date": "2022-01-28 18:32:31",
+        "tags": [],
+        "published": true,
+        "hideInList": true,
+        "feature": null,
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "ke-she-ji-zu-shi-yan-si-dp-wen-jian-zi-dong-sheng-cheng"
+    },
+    {
+      "content": "> 欢迎来到我的小站呀，很高兴遇见你！🤝\n\n## 🏠 关于本站\n专门用来放写的东西的，虽然现在没有但是先准备着（拽\n\n## 👨‍💻 博主是谁\n猫猫武士\n[博客](katananekozone.site)",
+      "data": {
+        "title": "关于",
+        "date": "2019-01-25 19:09:48",
+        "tags": [],
+        "published": true,
+        "hideInList": true,
+        "feature": null,
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "about"
+    }
+  ],
+  "tags": [],
+  "menus": [
+    {
+      "link": "/archives",
+      "name": "归档",
+      "openType": "Internal"
+    },
+    {
+      "link": "/post/about",
+      "name": "关于",
+      "openType": "Internal"
+    }
+  ]
+}

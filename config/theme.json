@@ -1,0 +1,34 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">Gridea</a>",
+    "postPageSize": 10,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "喜欢吃饭",
+    "siteName": "猫猫武士",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "Anatole"
+  },
+  "customConfig": {
+    "facebook": "",
+    "ga": "",
+    "github": "",
+    "gxmz": "猫猫武士",
+    "instagram": "",
+    "linkedin": "",
+    "qq": "",
+    "rss": "",
+    "send": "",
+    "tumblr": "",
+    "twitter": "",
+    "weibo": "",
+    "youtube": ""
+  }
+}
