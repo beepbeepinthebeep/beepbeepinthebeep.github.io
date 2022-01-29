@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://beepbeepinthebeep.github.io</id>
+    <title>猫猫武士</title>
+    <updated>2022-01-29T05:41:59.343Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://beepbeepinthebeep.github.io"/>
+    <link rel="self" href="https://beepbeepinthebeep.github.io/atom.xml"/>
+    <subtitle>喜欢吃饭</subtitle>
+    <logo>https://beepbeepinthebeep.github.io/images/avatar.png</logo>
+    <icon>https://beepbeepinthebeep.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 猫猫武士</rights>
+</feed>
